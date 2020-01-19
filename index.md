@@ -15,8 +15,8 @@
 - [Yeast Data Set](https://github.com/raulbarrue/yeast)
 - Forecasting Revenue using Prophet and LSTM Network (WORK IN PROGRESS)
 - Predicting Train Passenger Reservations (WORK IN PROGRESS)
----
 
+---
 ### Other Projects
 
 - [Energy Consumption Dashboard](https://github.com/raulbarrue/energydash)

@@ -14,7 +14,8 @@
 ---
 - [Santander Customer Transaction Prediction (Kaggle)](https://github.com/raulbarrue/Santander-Customer-Transaction-Prediction)
 - [Yeast Data Set](https://github.com/raulbarrue/yeast)
-
+- [Predicting Train Passenger Reservations (WORK IN PROGRESS)]
+- [Forecasting Revenue using Prophet and LSTM Network (WORK IN PROGRESS)]
 ---
 
 ### Other Projects

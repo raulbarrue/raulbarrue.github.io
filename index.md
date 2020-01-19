@@ -19,6 +19,8 @@
 
 ### Other Projects
 
+- [Energy Consumption Dashboard](https://github.com/raulbarrue/energydash)
+<img src="images/energy_dashboard.png?raw=true"/>
 - [TfL Raspberry Pi Project](https://github.com/raulbarrue/tfl_raspberrypi)
 - [Simple Online Price Tracker](/clarkspage)
 

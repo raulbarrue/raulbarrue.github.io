@@ -12,17 +12,16 @@
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
-[Project 3 Title](http://example.com/)
+- [Santander Customer Transaction Prediction (Kaggle)](https://github.com/raulbarrue/Santander-Customer-Transaction-Prediction)
+- [Yeast Data Set](https://github.com/raulbarrue/yeast)
 
 ---
 
 ### Other Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [TfL Raspberry Pi Project](https://github.com/raulbarrue/tfl_raspberrypi)
+- [Simple Online Price Tracker](/clarkspage)
+
 
 ---
 

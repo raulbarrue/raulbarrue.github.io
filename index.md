@@ -21,6 +21,7 @@
 
 - [Energy Consumption Dashboard](https://github.com/raulbarrue/energydash)
 <img src="images/energy_dashboard.png?raw=true"/>
+- [Download Current British Rail Fares](https://github.com/raulbarrue/british_rail_fares)
 - [TfL Raspberry Pi Project](https://github.com/raulbarrue/tfl_raspberrypi)
 - [Simple Online Price Tracker](/clarkspage)
 - [Find Duplicates](https://github.com/raulbarrue/find_duplicates)

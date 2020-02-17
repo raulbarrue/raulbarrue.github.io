@@ -15,6 +15,7 @@
 - [Yeast Data Set](https://github.com/raulbarrue/yeast)
 - [Forecasting Revenue using Prophet and a LSTM Neural Network](https://github.com/raulbarrue/revenue_forecasting)
 - Predicting Train Passenger Reservations (WORK IN PROGRESS)
+- Formula 1 Predictor (WORK IN PROGRESS)
 
 ---
 ### Other Projects

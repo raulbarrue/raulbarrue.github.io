@@ -19,6 +19,7 @@
 ---
 ### Other Projects
 
+- [Covid-19 Dashboard](https://raulb.shinyapps.io/covid/)
 - [Energy Consumption Dashboard](https://github.com/raulbarrue/energydash)
 <img src="images/energy_dashboard.png?raw=true"/>
 - [Download Current British Rail Fares](https://github.com/raulbarrue/british_rail_fares)

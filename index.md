@@ -18,19 +18,20 @@
 - Formula 1 Predictor (WORK IN PROGRESS)
 
 ---
-### Other Projects
+### Data Analytics Projects
 
 - [Covid-19 Dashboard](https://raulb.shinyapps.io/covid/)
 <img src="images/covid.jpg?raw=true"/>
 - [Energy Consumption Dashboard](https://github.com/raulbarrue/energydash)
 <img src="images/energy_dashboard.png?raw=true"/>
 - [Download Current British Rail Fares](https://github.com/raulbarrue/british_rail_fares)
-- [TfL Raspberry Pi Project](https://github.com/raulbarrue/tfl_raspberrypi)
 - [Simple Online Price Tracker](/clarkspage)
+
+---
+### Other Projects
+- [TfL Raspberry Pi Project](https://github.com/raulbarrue/tfl_raspberrypi)
 - [Find Duplicates](https://github.com/raulbarrue/find_duplicates)
 - Telegram Bot (currently private repo)
-
-
 ---
 
 
